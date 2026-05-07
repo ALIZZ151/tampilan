@@ -1,3 +1,4 @@
+<img width="720" height="1600" alt="1001276526" src="https://github.com/user-attachments/assets/f4c1af4c-cf85-4eed-a48b-63679b83c6ec" />
 <div align="center">
 
 # 🚀 Tampilan Termux 🚀
