@@ -37,20 +37,17 @@ Tampilan ini didesain dengan gaya **Cyberpunk Neon** yang mencolok:
 Jalankan perintah berikut satu per satu di terminal Termux Anda:
 
 ```bash
-# Update dan Upgrade Package
+# Update package Termux
 pkg update && pkg upgrade -y
 
-# Install Dependency yang dibutuhkan
-pkg install git nodejs unzip -y
+# Install Git
+pkg install git -y
 
-# Clone Repository
-git clone [https://github.com/ALIZZ151/tampilan.git](https://github.com/ALIZZ151/tampilan.git)
+# Clone Repository ALIZZ
+git clone https://github.com/ALIZZ151/tampilan.git
 
-# Masuk ke folder project
+# Masuk ke folder
 cd tampilan
 
-# Install library pendukung
-npm install
-
-# Jalankan Tools
-npm start
+# Jalankan tampilannya! (Ganti 'tampilan.sh' jika nama filemu berbeda)
+bash tampilan.sh
